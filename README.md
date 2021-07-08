@@ -1,4 +1,2 @@
 # vaishnavi
-high
-low
-intro
+
