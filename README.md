@@ -1,2 +1,2 @@
-# vaishnavi
+# vaishnavi_miniproject
 
